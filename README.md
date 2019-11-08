@@ -1,2 +1,3 @@
 # simpleNetworkingCode
-Simple Networking code. Server - client
+Dead simple Networking code for unity.
+Server - client
